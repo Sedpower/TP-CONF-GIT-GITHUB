@@ -1,2 +1,6 @@
-# TP-CONF-GIT-GITHUB
-Petit TP pour la prise en main des commandes git et de comprendre quelques détails de github
+# Bienvenue sur le GitHub de la conférence sur Git!
+
+Via ce dépot vous allez pouvoir voir par la pratique l'importance des outils présentés.
+
+# Sommaire 
+
