@@ -14,7 +14,7 @@ Vous trouverez un fichier de code par personne à compléter (HTML, CSS, JS).
 - css: modifier la couleur du bouton ou du texte
 - JS: modifier l'intervale de la fonction random
 
-Lancer les commandes `git status`, ``git add .` , `git commit -m "message"` , `git push` , `git status`, `git log`
+Lancer les commandes `git status`, `git add .` , `git commit -m "message"` , `git push` , `git status`, `git log`
 
 Vérifier sur GitHub la mise à jour du repo.
 
