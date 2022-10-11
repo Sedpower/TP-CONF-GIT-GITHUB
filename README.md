@@ -22,7 +22,7 @@ Vérifier sur GitHub la mise à jour du repo.
 
 Utiliser `git branch <nomDeBranch>` pour créer une nouvelle branche
 
-Utilser `git checkout <nomDeBranch>` pour se mettre dans cette branch
+Utiliser `git checkout <nomDeBranch>` pour se mettre dans cette branch
 
 Lancer `git branch`  pour verifier qu'on est bien dans la bonne branch 
 
